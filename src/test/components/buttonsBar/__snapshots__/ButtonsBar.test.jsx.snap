@@ -1,0 +1,43 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Test in ButtonsBar Component > should match whit snapshot 1`] = `
+<div>
+  <div
+    class="buttonsBar__container"
+  >
+    <button>
+      Pared 1
+    </button>
+    <button>
+      Pared 2
+    </button>
+    <button>
+      Pared 3
+    </button>
+    <button>
+      Pared 4
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Test in ButtonsBar Component > should match with snapshot 1`] = `
+<div>
+  <div
+    class="buttonsBar__container"
+  >
+    <button>
+      Pared 1
+    </button>
+    <button>
+      Pared 2
+    </button>
+    <button>
+      Pared 3
+    </button>
+    <button>
+      Pared 4
+    </button>
+  </div>
+</div>
+`;

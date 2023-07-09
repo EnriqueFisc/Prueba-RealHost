@@ -1,0 +1,32 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Test in CanvasContainer > should match with snapshot 1`] = `
+<div>
+  <div
+    class="controls__container"
+  >
+    <h1>
+      Prueba técnica RealHost
+    </h1>
+    <div
+      class="buttonsBar__container"
+    >
+      <button>
+        Pared 1
+      </button>
+      <button>
+        Pared 2
+      </button>
+      <button>
+        Pared 3
+      </button>
+      <button>
+        Pared 4
+      </button>
+    </div>
+  </div>
+  <section
+    class="canvas__canvas-container"
+  />
+</div>
+`;
